@@ -27,7 +27,7 @@ Abaixo você pode ver as imagens do site sendo acessado, via porta 8080, no meu 
 ![001](https://github.com/enps2015/avanti2023.2-projeto-pratico02-containerApache/assets/84017071/afb8a07f-b121-410d-a5e8-bd4a41944db3)
 
 
-Você pode acessar o site do projeto no endereço: enps2015.github.io
+Você pode acessar o site do projeto no endereço: http://enps2015.github.io
 
 
 Muito obrigado por você ter visitado a minha página e ter ficado até aqui!
